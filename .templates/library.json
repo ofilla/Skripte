@@ -1,0 +1,96 @@
+[
+    {
+        "id": "AlgorithmsCormen2022",
+        "type": "book",
+        "title": "Introduction to Algorithms",
+        "edition": "4",
+        "author": [
+            {
+                "family": "Cormen",
+                "given": "Thomas"
+            },
+            {
+                "family": "Leiserson",
+                "given": "Charles"
+            },
+            {
+                "family": "Rivest",
+                "given": "Ronald"
+            },
+            {
+                "family": "Stein",
+                "given": "Clifford"
+            }
+        ],
+        "publisher": "The MIT Press",
+        "url": "https://mitpress.mit.edu/9780262046305/introduction-to-algorithms",
+        "issued": {
+            "date-parts": [
+                [ 2022, 4, 5 ]
+            ]
+        },
+       "isbn": "978-0-2620-4630-5"
+    },
+    {
+        "id": "Gross2012Festkörper",
+        "type": "book",
+        "title": "Festkörperphysik",
+        "edition": "4",
+        "author": [
+            {
+                "family": "Gross",
+                "given": "Rudolph"
+            },
+            {
+                "family": "Marx",
+                "given": "Achim"
+            }
+        ],
+        "doi": "10.1524/9783486714869",
+        "publisher": "Oldenbourg Wissenschaftsverlag",
+        "issued": {
+            "date-parts": [
+                [ 2012 ]
+            ]
+        },
+       "isbn": "978-3-486-71294-0"
+    },
+    {
+        "id": "Hunklinger2011Festkörper",
+        "type": "book",
+        "title": "Festkörperphysik",
+        "edition": "3",
+        "author": [
+            {
+                "family": "Hunklinger",
+                "given": "Siegfried"
+            }
+        ],
+        "publisher": "Oldenbourg Verlag München",
+        "issued": {
+            "date-parts": [
+                [ 2011 ]
+            ]
+        },
+       "isbn": "978-3-486-70547-8"
+    },
+    {
+        "id": "Sakurai2020",
+        "type": "book",
+        "title": "Modern Quantum Mechanics",
+        "edition": "3",
+        "author": [
+            {
+                "family": "Sakurai",
+                "given": "Jun John"
+            }
+        ],
+        "publisher": "Cambridge University Press",
+        "issued": {
+            "date-parts": [
+                [ 2020 ]
+            ]
+        },
+       "isbn": "978-1-108-47322-4"
+    }
+]
