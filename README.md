@@ -6,4 +6,5 @@ Die Vorlesungen sind *nicht* von mir, ich bin nur ein Student, der an diesen Kur
 Niemand hat diese Skripte kontrolliert, alle Fehler sollen mir zugeschrieben werden. Korrekturen dürfen gerne über git vorgeschlagen werden.
 
 ## Übersicht
-* Vorlesung [Quantenmechanik](./markdown/Quantenmechanik.md) ([PDF](./pdf/Quantenmechanik.pdf))
+* [Festkörperphysik](./markdown/Festkörperphysik.md) ([PDF](./pdf/Festkörperphysik.pdf))
+* [Quantenmechanik](./markdown/Quantenmechanik.md) ([PDF](./pdf/Quantenmechanik.pdf))
