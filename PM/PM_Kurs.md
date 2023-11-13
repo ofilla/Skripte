@@ -7,30 +7,27 @@ Fallstudie: 4-5 Leute pro Gruppe, 1 Dokument gemeinsam erstellen.
 "offizieller" Kurs der IHK ist knapper.
 Es gib 24 [relevante Normen](http://gpm-hochschulen.de/organisation/normen/).
 
-# Einsendeaufgaben
-# 1. Modul 1
-## 1. [Projektdefinition](https://www.ihk-koeln-absolventen.de/mod/assign/view.php?id=22018)
-## 2. [Ausgestaltung des Projektmanagements](https://www.ihk-koeln-absolventen.de/mod/assign/view.php?id=22019)
-## 3. [Multiprojektmanagement](https://www.ihk-koeln-absolventen.de/mod/assign/view.php?id=22020)
-
 ## Prüfung
-Prüfungsrelevant: Methoden zur Bearbeitung der Fallstudie
-Teilweise Definitionen (werden als solche angemerkt)
-Zusatzfragen werden im Kurs schon gestellt.
-Es werden ca Anfang Dezember mögliche Fragen zum Üben verteilt.
+* Prüfungsrelevant: Methoden zur Bearbeitung der Fallstudie
+* Teilweise Definitionen (werden als solche angemerkt)
+* Zusatzfragen werden im Kurs schon gestellt.
+* Es werden ca Anfang Dezember mögliche Fragen zum Üben verteilt.
 
 Schriftliche Prüfung (90 Minuten) + Mündliche Prüfung zur Fallstudie (ca 10 Minuten je Person), gesamte Gruppe anwesend. Gesamte Fallstudie Prüfungsrelevant.
 
+# Einsendeaufgaben
+## 1. Modul 1
+### 1. [Projektdefinition](https://www.ihk-koeln-absolventen.de/mod/assign/view.php?id=22018)
+### 2. [Ausgestaltung des Projektmanagements](https://www.ihk-koeln-absolventen.de/mod/assign/view.php?id=22019)
+### 3. [Multiprojektmanagement](https://www.ihk-koeln-absolventen.de/mod/assign/view.php?id=22020)
 
-# Teambuilding
-## Dreieck der Gemeinsamkeiten
-3 Leute, gegenseitig kennenlernen. Dreieck mit Namen
-* Mitte: Alle 3 haben gemeinsam
-* Seiten: 2 haben gemeinsam
-    * Ecken: individuell
-    * gehört das dazu?
 
-# Theorie
+# [[20231113085147|Teambuilding]]
+## [[20231113085416|Dreieck der Gemeinsamkeiten]]
+## Biography-Sharing
+
+
+# [[20230916115018|Projektmanagement]]
 ## Grundlagen
 * Umfeld Organisationen: VUCA
     * Frage: Modell?
@@ -154,7 +151,7 @@ Weiterhin soll das PMO alle laufenden Projekte im Überblick behalten.
 Wenn man weiß, was wie erreicht werden kann. Ein solches Projekt ist in die [[20231026135352|Phasen des Projektmanagements]] aufzuteilen.
 
 #### Def: Meilenstein
-Meilensteine kennzeichnen Start- oder Endpunkte einer Phase. Diese können eine [[20231026135352|Phase des Projektmanagements]] sein, aber insbesondere die Steuerungsphase kann in Unterphasen aufgeteilt werden, die wiederum durch Meilensteine getrennt werden. Dies ist beispielsweise bei SCRUM der Fall.
+Meilensteine kennzeichnen Start- oder Endpunkte einer Phase. Diese können eine [[20231026135352|Phase des Projektmanagements]] sein, aber insbesondere die Steuerungsphase kann in Unterphasen aufgeteilt werden, die wiederum durch Meilensteine getrennt werden. Dies ist beispielsweise bei SCRUM der Fall. [Methodenwürfel](https://www.gpm-hochschulen.de/methoden/methodenwuerfel/scrum/).
 
 1. Die *Projektidee* bildet den Anfang der [[20231026140539|Initialisierungsphase]].
 2. Die Genehmigung des *Projektantrags* bildet den Anfang der [[20231027144509|Planungsphase]].
