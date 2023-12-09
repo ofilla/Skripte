@@ -1,100 +1,4 @@
-# Organisatorisches
-Die Gruppenarbeit wird am Abend des 25. Januar '24 abgeben, am 26.01. ist die Prüfung.
-
-Es gibt Für die 10 Aufgaben werden jeweils ca 5 - 20 Minuten geplant.
-Fallstudie: 4-5 Leute pro Gruppe, 1 Dokument gemeinsam erstellen.
-
-"offizieller" Kurs der IHK ist knapper.
-Es gib 24 [relevante Normen](http://gpm-hochschulen.de/organisation/normen/).
-
-## Prüfung
-* Prüfungsrelevant: Methoden zur Bearbeitung der Fallstudie
-* Teilweise Definitionen (werden als solche angemerkt)
-* Zusatzfragen werden im Kurs schon gestellt.
-* Es werden ca Anfang Dezember mögliche Fragen zum Üben verteilt.
-
-Schriftliche Prüfung (90 Minuten) + Mündliche Prüfung zur Fallstudie (ca 10 Minuten je Person), gesamte Gruppe anwesend. Gesamte Fallstudie Prüfungsrelevant.
-
-# Einsendeaufgaben
-## 1. Modul 1
-### 1. [Projektdefinition](https://www.ihk-koeln-absolventen.de/mod/assign/view.php?id=22018)
-### 2. [Ausgestaltung des Projektmanagements](https://www.ihk-koeln-absolventen.de/mod/assign/view.php?id=22019)
-### 3. [Multiprojektmanagement](https://www.ihk-koeln-absolventen.de/mod/assign/view.php?id=22020)
-
-
-# [[20231113085147|Teambuilding]]
-## [[20231113085416|Dreieck der Gemeinsamkeiten]]
-## Biography-Sharing
-
-
-# [[20230916115018|Projektmanagement]]
-## Grundlagen
-* Umfeld Organisationen: VUCA
-    * Frage: Modell?
-
-### magisches Dreieck
-Quelle: PDF1, Folie 19
-**Ziele der Projektleitung**: Projekterfolg sichern
-
-Die essenziellen Parameter Leistung, Kosten und Zeit bedingen und beeinflussen sich gegenseitig.
-
-#### Projektziel
-Ergebnis-orientierte, messbare, strategische Zielsetzung, Soll-Zustand / Big Picture
-Zitat: PDF1, folie 23
-#### Scope / Umfang
-Das magische Dreieck: Welche Leistungen sind inbegriffen, welche Kosten und Zeit sind geplant / gebucht.
-
-#### Objectives / operative Projektziele- Deliverables
-zu erarbeitende Ergebnisse, können SMART gemessen werden.
-
-### Methoden
-#### Vision zu Projektbeginn
-Stell dir vor, das Projekt sei umgesetzt. 
-* Wer ist betroffen oder involviert?
-* Welche Aufgaben haben sich durch das Projekt geändert?
-* Welche Arbeitsabläufe haben sich geändert?
-    * Wer bekommt neue Aufgaben?
-    * Wer gibt Aufgaben ab?
-* Welche Ressourcen werden für das Projekt benötigt?
-* Mit welchen Widerständen muss man rechnen?
-* Wie soll wer über den Stand der Dinge informiert werden?
-
-Finale Frage: Wer muss was wann tun, damit das Projekt realisiert wird.
-
-## Definitionen
-## Projekt
-Wir lernen das Projektmanagement nach DIN 69501 (PDF1, Folie 50).
-
-Ein Projekt ist ein Vorhaben, das im Wesentlichen durch die *Einmaligkeit der Bedingungen in Gesamtheit*, eine *genaue Zielvorgabe*, *zeitliche, finanzielle und personelle Begrenzungen* gekennzeichnet, das *projektspezifisch organisiert* ist.
-
-*Projektspezifische Organisation* bedeutet, dass mehrere Leute zusammenarbeiten.
-
-* neu, innovativ?
-* komplex: Es sind verschiedene Personen / Abteilungen / ... betroffen / involviert
-* Zeitaufwendig: Mitarbeitende müssen von anderen Aufgaben /... abgestellt werden, es geht nicht nebenbei
-* Klarer Zeitrahmen
-
-#### Klassifizierung von Projekten
-* nach Art (nach DIN 69501)
-    * IT-Projekt (inkl. Schulung von Anwendern)
-    * Organisationsprojekt: Schaffung oder Veränderung von internen Strukturen, Change Management
-        * z.B. Qualitätsmanagement einführen, neue Normen einhalten
-    * Investitionsprojekt: Anschaffung, Geldmittel in Sachvermögen investieren
-    * Innovationsprojekt: eine Neuheit entwickeln und umsetzen, bis hin zur Markteinführung
-    * Forschungs- und Entwicklungsprojekt: neue Kenntnisse und Fertigkeiten entwickeln
-
-weitere Kriterien
-* Produktart: Print, digital, cross-media
-* Auftraggeberart: intern  / extern
-* räumliche Ausdehnung: lokal, national, international
-* Klasse: groß, klein, fein, A, B, C
-
-### Projektmanagement
-Ein Projekt durch die verschiedenen Phasen begleiten / leiten.
-
-## Management Regelkreislauf
-PDF1, Folie 51
-
+# Kurs: Projektmanagement
 # Projektorganisation
 Es gibt im Projektmanagement immer eine Entscheidungsebene (den Auftraggeber), eine Koordinationsebene (die Projektleitung) und eine Ausführungsebene (das gesamte Team).
 
@@ -121,25 +25,7 @@ Insbesondere bei Matrixprojekten ist es sinnvoll, Termine regelmäßig zu planen
 
 
 ## Zusammenstellung Projekteam
-
-
-## Multiprojektmanagement
-Das *Portfolio* ist das, was ein Unternehmen anbietet. Es umschließt alle Projekte und Programme.
-
-Ein *Programm* besteht aus einer Reihe von Projekten, die das selbe Programmziel anstreben. Auch ein Programm hat eine definierte Laufzeit, hat aber einen so großen Umfang, dass es aus mehreren Projekten besteht.
-
-Es gibt immer Spannungen zwischen verschiedenen Projekten. Es gibt strategische Ziele, nach denen man wählt, welche Projekte durchgeführt werden, und welche parallel oder nacheinander ausgeführt werden müssen.
-
-Dabei werden die Projekte ausgewählt, die den grössten Nutzen bringen. Es sollten nicht zu viele Projekte mit großem Risiko ausgeführt werden.
-
-Es müssen Ressourcenkonflikte vermieden werden, dazu gehören auch zeitliche Engpässe. Die Bewertung der Projekte sollte nach *Attraktivität* und *Risiko* erfolgen. Die Auswahl wird nach *Strategischer Auswahl* und *Dringlichkeit*.
-
-Zudem sind übergreifende Berichte und Wissensmanagement wichtig.
-
-Eine Pipeline oder eine Roadmap kann Überblick über verschiedene Projekte schaffen (PDF2, Folie23).
-Verschiedene Projekte und ihre Beziehungen können in Strategischen Projektnetzen (PDF2, Folie 24) dargestellt werden.
-
-Ein Portfolio-Trichter (PDF2, Folie 25) kann den Zustand des Portfolios und den aktuellen Status von Projekten und Programmen darstellen.
+## [[20231209163220|Multiprojektmanagement]]
 
 ## Projektmanagement Office (PMO)
 Das PMO ist dazu da, die eigentlichen Projektmanager zu unterstützen. Es ist insbesondere dazu da, Standards vorzulegen und Vorlagen zu liefern. Dazu werden Management-Prozesse standardisiert und optimiert.
@@ -251,12 +137,6 @@ Was muss geleistet werden?
 Was muss der Auftraggeber machen?
 
 # Methoden
-| Initializierungsphase            | Definitionsphase             | Planungsphase | Steuerungsphase | Abschlussphase |
-| -------------------------------- | ---------------------------- | ------------- | --------------- | -------------- |
-| Projektideen prüfen & beurteilen | Projektauftragsklärung       |               |                 |                |
-| Situationsanalyse                | Ziele definieren             |               |                 |                |
-|                                  | Meilensteine & Kosten (grob) |               |                 |                |
-
 ## Initialisierung
 ### IST-Analyse
 DIN: I.11.1
