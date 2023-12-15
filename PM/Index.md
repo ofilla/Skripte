@@ -6,6 +6,9 @@ zum [[PM_Kurs|Kurs: Projektmanagement]]
 # [[20231113085147#Kennenlernen|Teambuilding-Maßnahmen]]
 * [[20231113085416|Dreieck der Gemeinsamkeiten]]
 * Biography-Sharing
+* Kaffeepausen
+* Brown Bag Lunch
+* alles weitere regelmäßige
 
 # [[20230916115018|Projektmanagement]]
 * [[20231026135352|Phasen des Projektmanagements]]
