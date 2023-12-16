@@ -1,12 +1,12 @@
 # Agenda
-9:00 bis 12:30 Uhr
-• Retrospektive im Studierenden-Team
-• PSP- Feinschliff
-• Phasenbegleitende Tätigkeiten
+9 bis 12:30 Uhr
+• Input: Ablauf- und Terminplanung
+ Kaffeepause 15 min
+• Gruppenarbeit: Netzplan & Vorgangsliste (Fallstudie 5.1 und 5.2)
 13:45 bis 16:30 Uhr
-• Arbeitspakete-Check bzw. Weiterarbeit
-• Exkurs: Methoden „Zielgruppe verstehen“
-• Überblick: bisherige PM-Methoden
+• Gruppenarbeit: Balkenplan / Kalendrierung (Fallstudie 5.3)
+• Nachholung: Rollen im Projekt
+• Gruppenarbeit: Projektaufbauorganisation (Fallstudie 3.1 )
 
 # Fallstudie
 * Phasenbegleitende Tätigkeit
@@ -18,6 +18,7 @@
         * -> Arbeitspaket oder begleitende Tätigkeit
 * Definierte Maßnahmen müssen alle auch geplant werden
     * Dokumentation: Copy-Paste
+* Meilensteine in 2.5 eintragen
 
 # [[20231215091716|Check-In]]
 # Meilenstein
@@ -40,10 +41,23 @@ Arbeitspakete bilden einmalige Aktivitäten ab.
 #### begleitende Tätigkeiten
 Begleitende Tätigkeiten sind Aktivitäten, die mehrfach ausgeübt werden müssen. Die meisten [[20231207162714|Prozesse des Projektmanagmentes]] sind begleitend.
 
+### Dauer eines AP
+Die Dauer ist nicht die Arbeitszeit (Aufwand), sondern die Dauer zwischen Start und Ende eines Arbeitspaketes.
+
 ## Projektcontrolling
 Eine begleitende Maßnahme, die den Ist- mit dem Soll-Zustand vergleicht. Z.B. die Frage, ob Termine, Kosten etc eingehalten werden. Hartes Controlling beschreibt die Attribute des magischen Dreiecks, Softes Controlling die der anderen Attribute.
 
-### Reihenfolge
+## Meilenstein - / Phasenplan
+Wann beginnt welche Phase? Wann ist welcher Meilenstein erreicht? Auch für ein [[20231027152741|Kick-Off-Meeting]] hilfreich.
+
+## VKN - Vorgangsknoten-Netzplan
+Jeder Vorgang bzw. jedes Arbeitspaket bildet einen Knoten, die Informationen enthalten. Jeder Knoten wird durch ein Quadrat / Rechteck dargestellt.
+
+
+
+## Vorgang
+Jeder Vorgang ist ein Arbeitspaket. 
+
 # Steuerungsphase
 ## Projektteam entwickeln S5.3
 Teamentwicklung
@@ -79,7 +93,8 @@ Abschluss: Eine „Retrospektive“ auf die „Retrospektive“ werfen.
 * https://coeno.com/auch-wir-haben-optimierungsbedarf-retrospektiven-fuer-bessere-zusammenarbeit
 * https://www.dev-insider.de/scrum-retrospektive-fuer-heterogene-teams-a-565378
 
-# Design Thinking Tools
+# Methoden
+## Design Thinking Tools
 In 6 Schritten zum Prototypen.
 
 1. Verstehen
@@ -92,10 +107,15 @@ In 6 Schritten zum Prototypen.
 * https://www.bremen-innovativ.de/2019/03/warum-design-thinking-funktioniert
 * PDF5, S57ff
 
-# Empathy Map
+## Empathy Map
 Was sieht, hört, denkt, fühlt, sagt und tut der Kunde:in / Besucher:in / Sponsor:in?
 Was bereitet Frust, was sind Probleme, Ziele und Wünsche?
 
+Z.B. für Pflichtenheft nützlich
+
 * https://www.ihk-koeln-absolventen.de/pluginfile.php/70711/mod_folder/content/0/B_weitere
 
-# Value Proposition Canva
+## Value Proposition Canva
+Canva: Sachen ausfüllen
+Z.B. für Pflichtenheft nützlich
+
