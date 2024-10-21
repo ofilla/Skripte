@@ -15,4 +15,4 @@ $(cat "$in_file")
 EOF
 )"
 
-echo "$file" | sed -e 's/eqnarray/eqnarray*/g' -e 's/^\$\$$//g' | pandoc -o "$out_file"
+echo "$file" | sed -e 's/eqnarray/eqnarray*/g' -e 's/\\braket/\\expval/g' -e 's/^\$\$$//g' | pandoc -o "$out_file"
