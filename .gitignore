@@ -1,5 +1,15 @@
-*.aux
-*.log
 Loesungen/*.pdf
 Loesungen/img/09.1.a.pdf
 Mitschriften/*.pdf
+# LaTeX
+*.aux
+*.log
+*.out
+*.pdf
+*.synctex.gz
+*.toc
+*.loa
+*.lof
+*.lot
+*.nav
+*.snm
